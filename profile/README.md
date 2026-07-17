@@ -4,5 +4,5 @@
   An independent wiki founded in 2026 with the mission of documenting everything about Zombies vs Humans.
 
   ## Current Repos
-  - [wiki-tools: A public repository of the modules, templates and stylesheets used on the wiki.](https://github.com/zvhwiki/wiki-tools)
+  [WikiTools: Templates, modules, and stylesheets for the wiki.](https://github.com/zvhwiki/wiki-tools)
 </div>
